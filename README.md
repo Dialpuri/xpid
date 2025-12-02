@@ -1,7 +1,5 @@
 # xpid
 
-**XH-π interactions detector for protein structures.**
-
 `xpid` is a Gemmi-based tool designed to detect XH-π interactions in PDB/mmCIF files.
 
 ## Installation
@@ -9,7 +7,7 @@
 Requires Python 3.9+.
 
 ```bash
-git clone [https://github.com/SeanWang5868/xpid](https://github.com/SeanWang5868/xpid)
+git clone https://github.com/SeanWang5868/xpid
 cd xpid
 pip install .
 ```
@@ -63,8 +61,7 @@ Definitions: $C_\pi$ (Ring Centroid), $\vec{n}$ (Ring Normal), $X$ (Donor Heavy 
 | `--model ID` | Model index to analyze (Default: `0`; use `all` for NMR). |
 | `--pi-res` | Limit acceptor residues (e.g., `TRP,TYR`). |
 | `--donor-res` | Limit donor residues (e.g., `HIS,ARG`). |
-| `--donor-atom` ｜ Limit donor element types (e.g., `N,O`). |
-
+| `--donor-atom` | Limit donor element types (e.g., `N,O`). |
 
 ## Output Data
 
