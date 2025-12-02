@@ -32,13 +32,13 @@ xpid ./data
 
 ## Geometric Criteria
 
-Definitions: $C_\pi$ (Ring Centroid), $\vec{n}$ (Ring Normal), $X$ (Donor Heavy Atom), $Xp$ (The projection of X onto the \pi plane), $H$ (Hydrogen).
+Definitions: $C_\pi$ (Ring Centroid), $\vec{n}$ (Ring Normal), $X$ (Donor Heavy Atom), $Xp$ (The projection of X onto the π plane), $H$ (Hydrogen).
 
 ### [Hudson System](https://doi.org/10.1021/jacs.5b08424)
 
-$d_{\text{X --} \, C_\pi}$: $\le 4.5\,\text{Å}$, 
-$\angle\, \text{X -- H --} \vec{n}$: $\le 40^\circ$.  
-$d_{\text{Xp --} \, C_\pi}$: $\le 1.6\,\text{Å}$ for \text{His} and \text{Trp\_A}, $\le 2.0\,\text{Å}$ for \text{Phe}, \text{Trp\_B}, \text{Tyr}
+$d_{\text{X --} \, C_\pi}$: $\le 4.5\,\text{Å}$,  
+$\angle\, \text{X -- H --} \vec{n}$: $\le 40^\circ$,  
+$d_{\text{Xp --} \, C_\pi}$: $\le 1.6\,\text{Å}$ for $\text{His}$ and $\text{Trp\_A}$, $\le 2.0\,\text{Å}$ for $\text{Phe}$, $\text{Trp\_B}$, $\text{Tyr}$
 
 ### [Plevin System](https://doi.org/10.1038/nchem.650)
 
