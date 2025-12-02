@@ -36,11 +36,11 @@ Definitions: $C_\pi$ (Ring Centroid), $\vec{n}$ (Ring Normal), $X$ (Donor Heavy 
 
 ### [Hudson System](https://doi.org/10.1021/jacs.5b08424)
 
-$d_{X \text{--} C_\pi}$: $\le 4.5$ Å, $\angle X\text{--}H \text{--} \vec{n}$): $\le 40^\circ$. $d_{Xp \text{--} C_\pi}$ <=1.6 Å for His and Trp_A, ≤ 2.0 Å for Phe, Trp_B, Tyr
+$d_{X \text{--} C_\pi}$: $\le 4.5\ \text{Å}$, $\angle X \text{--} H \text{--} \vec{n}$: $\le 40^\circ$. $d_{X p \text{--} C_\pi}$: $\le 1.6\ \text{Å}$ for $\text{His}$ and $\text{Trp\_A}$, $\le 2.0\ \text{Å}$ for $\text{Phe}$, $\text{Trp\_B}$, $\text{Tyr}$
 
 ### [Plevin System](https://doi.org/10.1038/nchem.650)
 
-$d_{X \text{--} C_\pi}$: $< 4.3$ Å, $\angle X\text{--}H \text{--} C_\pi$: $> 120^\circ$, $\angle X \text{--} C_\pi \text{--} \vec{n}$): $< 25^\circ$.
+$d_{X \text{--} C_\pi}$: $< 4.3\ \text{Å}$, $\angle X \text{--} H \text{--} C_\pi$: $> 120^\circ$, $\angle X \text{--} C_\pi \text{--} \vec{n}$: $< 25^\circ$.
 
 ## Command Options
 
@@ -70,9 +70,9 @@ $d_{X \text{--} C_\pi}$: $< 4.3$ Å, $\angle X\text{--}H \text{--} C_\pi$: $> 12
 **Detailed Mode (`-v`)**
 
   * **Includes all Simple fields plus:**
-  * **Secondary Structure**: Type (H/G/I/E/C) and Region IDs.
+  * **Secondary structure**: Type (H/G/I/E/C) and Region IDs.
   * **Coordinates**: Flattened x, y, z for $\pi$-center and X-atom.
-  * **Angles**: $\angle X\text{--}H \text{--} \vec{n}$, $\angle X\text{--}H \text{--} C_\pi$, $\angle X \text{--} C_\pi \text{--} \vec{n}$.
+  * **Geometric parameters**: $\angle X\text{--}H \text{--} \vec{n}$, $\angle X\text{--}H \text{--} C_\pi$, $\angle X \text{--} C_\pi \text{--} \vec{n}$, $d_{Xp \text{--} C_\pi}$
   * **B-factors**: Average B-factor for ring atoms and X-atom.
 
 ## Dependencies
