@@ -1,6 +1,6 @@
 # Xpid
 
-`xpid` is a Gemmi-based tool designed to detect XH-π interactions in PDB/mmCIF files.
+`Xpid` is a Gemmi-based tool designed to detect XH-π interactions in PDB/mmCIF files.
 
 ## Installation
 
@@ -36,7 +36,7 @@ Definitions: $C_\pi$ (Ring Centroid), $\vec{n}$ (Ring Normal), $X$ (Donor Heavy 
 
 ### [Hudson System](https://doi.org/10.1021/jacs.5b08424)
 
-$d_{X \text{--} C_\pi}$: $\le 4.5$ Å, $\angle X\text{--}H \text{--} \vec{n}$): $\le 40^\circ$. $d_{Xp \text{--} C_\pi}$: $\le 1.6$ Å $\text{for His, Trp_A}$, $\le 2.0$ Å $\text{for Phe, Trp_B, Tyr}$.
+$d_{X \text{--} C_\pi}$: $\le 4.5$ Å, $\angle X\text{--}H \text{--} \vec{n}$): $\le 40^\circ$. $d_{Xp \text{--} C_\pi}$: $\le 1.6$ Å $\text{for His, Trp-A}$, $\le 2.0$ Å $\text{for Phe, Trp-B, Tyr}$.
 
 ### [Plevin System](https://doi.org/10.1038/nchem.650)
 
