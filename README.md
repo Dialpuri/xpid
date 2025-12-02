@@ -36,15 +36,11 @@ Definitions: $C_\pi$ (Ring Centroid), $\vec{n}$ (Ring Normal), $X$ (Donor Heavy 
 
 ### [Hudson System](https://doi.org/10.1021/jacs.5b08424)
 
-$d_{\text{X --} \, C_\pi}$: $\le 4.5\,\text{Å}$,  
-$\angle\, \text{X -- H --} \vec{n}$: $\le 40^\circ$,  
-$d_{\text{Xp --} \, C_\pi}$: $\le 1.6\,\text{Å}$ for $\text{His}$ and $\text{Trp\_A}$, $\le 2.0\,\text{Å}$ for $\text{Phe}$, $\text{Trp\_B}$, $\text{Tyr}$
+$d_{X \text{--} C_\pi}$: $\le 4.5$ Å, $\angle X\text{--}H \text{--} \vec{n}$): $\le 40^\circ$. $d_{Xp \text{--} C_\pi}$: $\le 1.6$ Å $\text{for His, Trp_A}$, $\le 2.0$ Å $\text{for Phe, Trp_B, Tyr}$.
 
 ### [Plevin System](https://doi.org/10.1038/nchem.650)
 
-$d_{\text{X --} \, C_\pi}$: $< 4.3\,\text{Å}$,  
-$\angle\, \text{X -- H --} C_\pi$: $> 120^\circ$,  
-$\angle\, \text{X --} C_\pi \text{ --} \vec{n}$: $< 25^\circ$.
+$d_{X \text{--} C_\pi}$: $< 4.3$ Å, $\angle X\text{--}H \text{--} C_\pi$: $> 120^\circ$, $\angle X \text{--} C_\pi \text{--} \vec{n}$): $< 25^\circ$.
 
 
 ## Command Options
